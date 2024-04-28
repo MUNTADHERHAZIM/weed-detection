@@ -63,10 +63,6 @@
     ```bash
     cd weed-detection
     ```
-3. Установите необходимые пакеты:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ---
 
