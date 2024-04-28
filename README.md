@@ -89,7 +89,7 @@
 ## Результаты
 
 Результаты объединенной модели сохранены в Excel-файле с именем `detections_combined.xlsx`.
-и video as `output_video.avi`
+и сохранены video с именем `output_video.avi`
 
 ---
 
