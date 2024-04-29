@@ -94,6 +94,13 @@ result_model1
 | 2     | 1.3115         | 1.8022         | 1.6019         | 0.51583              | 0.45267           | 0.51893          | 0.25204              | 1.6596       | 3.496        | 2.222         | 0.00073806 | 0.00073806 | 0.00073806 |
 | 3     | 1.3323         | 1.6312         | 1.62           | 0.76098              | 0.73315           | 0.76619          | 0.3978               | 1.6029       | 1.9991       | 2.1678        | 0.00056347 | 0.00056347 | 0.00056347 |
 
+
+https://github.com/MUNTADHERHAZIM/weed-detection/assets/116030343/ac7599cc-0a51-48a3-9fa9-65af1a8bee9e
+
+![1 (2)](https://github.com/MUNTADHERHAZIM/weed-detection/assets/116030343/20e2f0ed-085c-4399-bd0f-8201b95a6801)
+![1 (1)](https://github.com/MUNTADHERHAZIM/weed-detection/assets/116030343/f1e5368f-d54f-4773-b62d-72bcf131969b)
+![1 (1)](https://github.com/MUNTADHERHAZIM/weed-detection/assets/116030343/40137adf-ec99-4390-b6a8-97ffa49a22ea)
+
 ---
 
 
