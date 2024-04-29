@@ -57,7 +57,7 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/your_username/weed-detection.git
+    https://github.com/MUNTADHERHAZIM/weed-detection.git
     ```
 2. Перейдите в директорию проекта:
     ```bash
@@ -116,7 +116,7 @@ https://github.com/MUNTADHERHAZIM/weed-detection/assets/116030343/ac7599cc-0a51-
 
 --- 
 
-## Выводs
+## Вывод
 На основе анализа результатов обучения модели можно сделать следующие выводы:
 
 - Обе модели (Model 1 и Model 2) демонстрируют улучшение показателей на тренировочном наборе данных с увеличением числа эпох, что указывает на эффективность обучения.
